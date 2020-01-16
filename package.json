@@ -9,6 +9,7 @@
   "author": "Gary Vaz",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^13.1.7",
     "csvtojson": "^2.0.10"
   }
 }
